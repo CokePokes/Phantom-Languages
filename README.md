@@ -7,7 +7,7 @@ Rules:
 
 1. EDIT RIGHT SIDE OF =  (ex. hello = make edit here to spanish hola)
 
-2. Retain capitalization for feature titles for instance "Camer Timer"
+2. Retain capitalization for feature titles for instance "Camera Timer"
 
 3. DO NOT DELETE %@ or \n or symbols similar. \n is a newline. %@ is where a word or value is placed. \'s go before quotations
 
