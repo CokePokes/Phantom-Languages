@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>
+Check your internet connection &amp; try again. If problem persists, try in an hour or so. (Perhaps website construction?)</key>
+	<string>
+تاكد من اتصال النت حقك وحاول مرة ثانية. لو استمرت المشكلة حاول بكرا, او غير اتصالك او صك ايفونك بالجدار.</string>
+	<key>
+It can take up to a week+ for a reply depending on the current volume of emails.</key>
+	<string>
+يمكن نتاخر بالرد ومايوصلك غير بعد اشبوع</string>
+	<key>
+Thanks for installing Phantom. This tweak is POWERED by advertisements. Show your support by purchasing a license within Settings.</key>
+	<string>شكراً لتحميل الفانتوم, هذي الاداة فيها الاعلانات الي راح تظهر لك, لو تبي نسخة بدون اعلانات فقط ادفع للمطور وسوف تنحذف الاعلانات </string>
+	<key>%@ error!</key>
+	<string>%@ خطا!</string>
+	<key>%@ saved!</key>
+	<string>%@ تم الحفظ!</string>
+	<key>A new version of Phantom is available:
+
+Installed version: %@
+Available version: %@</key>
+	<string>فيه نسخة جديدة الحين للفانتوم تقدر تحملها:
+
+النسخة الي عندك: %1$@
+التحديث الجديد: %2$@</string>
+	<key>A wild iPad appeared!
+
+Would you like to use @rpetrich's 
+"Full Force" tweak packaged within Phantom to enable iPad mode? 
+
+If you would like to download &amp; use @rpetrich's separate tweak to use in multiple applications, press "Use @rpetrich's" button.</key>
+	<string>شكلك تستخدم ايباد!
+
+ماودك تستخدم اداة @rpetrich's 
+"Full Force" مع الفانتوم لتفعيل وضع الايباد? 
+
+اذا تبي تحمل الاداة اضغط "Use @rpetrich's" زر.</string>
+	<key>ADDITIONAL SERVICES</key>
+	<string>خدمات اضافية</string>
+	<key>AUTO SAVE SETTINGS</key>
+	<string>اعدادات الحفظ التلقائي</string>
+	<key>Abort</key>
+	<string>الغاء</string>
+	<key>Add</key>
+	<string>اضافة</string>
+	<key>Add Music</key>
+	<string>اضافة موسيقى</string>
+	<key>Album</key>
+	<string>الالبوم</string>
+	<key>Always Keep Snaps</key>
+	<string>ابقاء المحادثات دايمن</string>
+	<key>Are you sure you want to delete all logged videos?</key>
+	<string>انت متاكد تبي تحذف جميع تسجيلات مقاطع الفيديو؟</string>
+	<key>Are you sure you want to delete all saved videos?</key>
+	<string>انت متاكد تبي تحذف جميع مقاطع الفيديو المحفوظة؟</string>
+	<key>Are you sure you want to reset Phantom's button placements?</key>
+	<string>انت متاكد انك تبي تسوي اعادة تعيين مكان زر الفانتوم؟</string>
+	<key>Auto Keep Messages</key>
+	<string>ابقاء الرسايل تلقائين</string>
+	<key>Auto Save</key>
+	<string>حفظ تلقائي</string>
+	<key>Auto save to: %@</key>
+	<string>حفظ تلقائي في: %@</string>
+	<key>Back</key>
+	<string>رجوع</string>
+	<key>Big Thanks to: Thomas Finch</key>
+	<string>شكراً للأخ محمد نذير</string>
+	<key>Bluetooth Required</key>
+	<string>لازم بلوتوث</string>
+	<key>Bug Report</key>
+	<string>ابلاغ عن مشكلة</string>
+	<key>CONTACT OPTIONS</key>
+	<string>خيارات الاتصال</string>
+	<key>Camera Options</key>
+	<string>خيارات الكاميرا</string>
+	<key>Camera Timer</key>
+	<string>مؤقت الكاميرا</string>
+	<key>Camera roll</key>
+	<string>البوم الكاميرا</string>
+	<key>Cancel</key>
+	<string>الغاء</string>
+	<key>Capture image in how many seconds?</key>
+	<string>التقاط الصور في كم ثانية؟</string>
+	<key>Celsius</key>
+	<string>درجة مئوية</string>
+	<key>Change Album Name</key>
+	<string>تغيير اسم الالبوم</string>
+	<key>Change Password</key>
+	<string>تغيير كلمة المرور</string>
+	<key>Clear</key>
+	<string>مسح</string>
+	<key>Clear Badges (on exit)</key>
+	<string>مسح الشارات عند الخروج</string>
+	<key>Contact</key>
+	<string>الاتصال</string>
+	<key>Contact Options</key>
+	<string>خيارات الاتصال</string>
+	<key>Continue</key>
+	<string>متابعة</string>
+	<key>Copy</key>
+	<string>نسخ</string>
+	<key>Create</key>
+	<string>انشاء</string>
+	<key>Create Group..</key>
+	<string>إنشاء مجموعة ..</string>
+	<key>Create New Group</key>
+	<string>إنشاء مجموعة جديدة</string>
+	<key>Create Password</key>
+	<string>انشاء كلمة مرور</string>
+	<key>Create a Group..</key>
+	<string>انشاء مجموعة..</string>
+	<key>DEFAULT TONES</key>
+	<string>النغمات الافتراضية</string>
+	<key>DROPBOX SNAPS</key>
+	<string>DROPBOX سنابات</string>
+	<key>Data Saver</key>
+	<string>حفظ البيانات</string>
+	<key>Delete</key>
+	<string>حذف</string>
+	<key>Disable Auto Load Stories</key>
+	<string>تعطيل التحميل التلقائي للستوري</string>
+	<key>Disable Chroma Noise Reduction</key>
+	<string>تعطيل الحد من الضوضاء</string>
+	<key>Disable Discovery</key>
+	<string>تعطيل ديسكفري</string>
+	<key>Disable Hold to Record</key>
+	<string>تعطيل الضغط مع الاستمرار لتصوير الفيديو</string>
+	<key>Disable Hold to View</key>
+	<string>تعطيل الضغط مع الاستمرار للمشاهدة</string>
+	<key>Dismiss</key>
+	<string>استبعاد</string>
+	<key>Don't Receive isTyping</key>
+	<string>عدم تلقي ان واحد يكتب لك</string>
+	<key>Don't Send Blue Button</key>
+	<string>لا ترسل الزر الازرق</string>
+	<key>Don't Send isTyping</key>
+	<string>لا ترسل انك انت جالس تكتب رسالة</string>
+	<key>Donate</key>
+	<string>تبرع</string>
+	<key>Done</key>
+	<string>تم</string>
+	<key>Downloading..</key>
+	<string>تحميل ..</string>
+	<key>Dropbox</key>
+	<string>Dropbox</string>
+	<key>Dropbox Snaps</key>
+	<string>Dropbox سنابات</string>
+	<key>Editing Phantom button placement, triple tap upload button to exit!</key>
+	<string>تعديل مكان زر الفانتوم, اضغط ثلاث مرات على زر الرفع او ابلود للخروج!</string>
+	<key>Email</key>
+	<string>الايميل</string>
+	<key>Email Address</key>
+	<string>عنوان الايميل</string>
+	<key>Email Failed To Send!</key>
+	<string>فشل ارسال الايميل</string>
+	<key>Email Sent Successfully!</key>
+	<string>تم ارسال الايميل بنجاح</string>
+	<key>Email failed to send. Please try again.</key>
+	<string>فشل ارسال الايميل, حاول مرة ثانية</string>
+	<key>Enable</key>
+	<string>تفعيل</string>
+	<key>Enable Password</key>
+	<string>تفعيل كلمة المرور</string>
+	<key>Enable Spoofing</key>
+	<string>تفعيل حركات النصب الوهمية</string>
+	<key>Enter</key>
+	<string>ادخل</string>
+	<key>Enter Password</key>
+	<string>ادخال كلمة المرور</string>
+	<key>Enter a password for the Phantom Vault!</key>
+	<string>ادخل كلمة المرور لمحفظة الفانتوم</string>
+	<key>Enter a valid email address so the developer can get back to you about your problem!</key>
+	<string>اكتب ايميلك عشان يقدر المطور يتواصل معك عن مشكلتك!</string>
+	<key>Enter a valid email address so the developer can get back to you!</key>
+	<string>اكتب ايميلك عشان يقدر المطور يتواصل معك</string>
+	<key>Enter a valid email address to register a license to your device</key>
+	<string>اكتب ايميلك لتسجيل ترخيص لجهازك</string>
+	<key>Enter the Phantom password to unlock the vault!</key>
+	<string>ادخل كلمة المرور حقت الفانتوم لفتح المحفظة</string>
+	<key>Entered the wrong password!</key>
+	<string>كلمة المرور خطا</string>
+	<key>Error!</key>
+	<string>خطا!</string>
+	<key>Error: Try converting/fixing video before selecting..</key>
+	<string>خطا: حاول تحويلاصلاح الفيديو قبل اختيار..</string>
+	<key>Examples: 1, 3, 4, 20</key>
+	<string>مثلن: 1, 3, 4, 20</string>
+	<key>Fahrenheit</key>
+	<string>فهرنهايت</string>
+	<key>Failure!</key>
+	<string>فشل!</string>
+	<key>Fatal..</key>
+	<string>قتل..</string>
+	<key>Feed Options</key>
+	<string>خيارات صفحة المحادثات</string>
+	<key>Fix</key>
+	<string>اصلاح</string>
+	<key>Fix Videos</key>
+	<string>اصلاح الفيديو</string>
+	<key>Flip Horizontal</key>
+	<string>انعكاس أفقي</string>
+	<key>Flip Vertical</key>
+	<string>انعكاس عمودي</string>
+	<key>Fonts</key>
+	<string>الخط</string>
+	<key>Forgot Password? Delete SC &amp; reinstall!</key>
+	<string>هل نسيت كلمة المرور؟ حذف SC وإعادة تثبيت!</string>
+	<key>Friends will see you view their Stories.</key>
+	<string>اصدقائك راح يعرفون انك شفت ستورياتهم</string>
+	<key>Going to attempt to fix videos..</key>
+	<string>نروح نحاول نصلح الفيديو..</string>
+	<key>Hide Best Friends</key>
+	<string>اخفاء افضل اصدقاء</string>
+	<key>Hide Counter</key>
+	<string>اخفاء العداد</string>
+	<key>Hide Discovery</key>
+	<string>إخفاء ديسكفري</string>
+	<key>Hide Live Stories</key>
+	<string>اخفاء مباشر او لايف ستوري</string>
+	<key>Hide Recent Stories</key>
+	<string>اخفاء تحديثات للستوري</string>
+	<key>Hide Recents</key>
+	<string>اخفاء تحديثات الاخيرة</string>
+	<key>How many licenses would you like to buy?</key>
+	<string>كم عدد التراخيص الي تبي تشتري؟</string>
+	<key>Hybrid</key>
+	<string>Hybrid</string>
+	<key>I can't handle the pressure</key>
+	<string>I can't handle the pressure</string>
+	<key>If you restored, request a license switch by emailing 'License Support'</key>
+	<string>If you restored, request a license switch by emailing 'License Support'</string>
+	<key>Image</key>
+	<string>صورة</string>
+	<key>Image added to camera roll!</key>
+	<string>تم اضافة الصورة في البوم الصور!</string>
+	<key>Image copied to pasteboard!</key>
+	<string>تم نسخ الصورة!</string>
+	<key>Image saved to Dropbox!</key>
+	<string>الصورة تم حفظها في Dropbox!</string>
+	<key>Image saved to camera roll!</key>
+	<string>الصورة تم حفظها في البوم الصور!</string>
+	<key>Image saved to vault!</key>
+	<string>الصورة تم حفظها للمحفظة</string>
+	<key>Important Warning!</key>
+	<string>تحذير هام!</string>
+	<key>Incompatible</key>
+	<string>غير متوافق</string>
+	<key>Install</key>
+	<string>تثبيت</string>
+	<key>Installation Error!</key>
+	<string>خطا في التثبيت</string>
+	<key>Instant Save</key>
+	<string>حفظ فوري</string>
+	<key>Invalid Email!</key>
+	<string>الايميل غير صالح</string>
+	<key>Invalid Entry</key>
+	<string>ادخال غير صحيح</string>
+	<key>KM/H</key>
+	<string> كم/ساعة</string>
+	<key>LOGGED SNAPS</key>
+	<string>سجل السنابات</string>
+	<key>Later</key>
+	<string>بعدين</string>
+	<key>License Support</key>
+	<string>رخصة الدعم</string>
+	<key>Link Dropbox</key>
+	<string>ربط Dropbox</string>
+	<key>Linked</key>
+	<string>مرتبط</string>
+	<key>Loading..</key>
+	<string>تحميل..</string>
+	<key>Log Sent Media</key>
+	<string>سجل الميديا المرسلة</string>
+	<key>Logged Images</key>
+	<string>الصور المسجلين</string>
+	<key>Logged Snaps</key>
+	<string>سجل السنابات</string>
+	<key>Logged Videos</key>
+	<string>سجل الفيديوات</string>
+	<key>MPH</key>
+	<string>ميل في الساعة</string>
+	<key>Made by @CokePokes</key>
+	<string>تعريب محمد نذير @Mohadu313</string>
+	<key>Make Changes</key>
+	<string>اجراء تغييرات</string>
+	<key>Manage Groups</key>
+	<string>ادارة المجموعات</string>
+	<key>Manage Groups..</key>
+	<string>ادارة المجموعات..</string>
+	<key>Manually choose an orientation!</key>
+	<string>اختيار التوجه يدويا</string>
+	<key>Message Options</key>
+	<string>خيارات الرسائل</string>
+	<key>Message: via Snapchat</key>
+	<string>الرسالة: عبر سناب شات</string>
+	<key>More</key>
+	<string>المزيد</string>
+	<key>NOTIFICATIONS</key>
+	<string>الاشعارات</string>
+	<key>Never Show Again</key>
+	<string>لاتظهر مرة اخرى</string>
+	<key>New face filters will not appear until this feature is turned OFF!</key>
+	<string>لن تظهر فلاتر الوجه الجديدة حتى يتم تعطيل هذي الميزة</string>
+	<key>No</key>
+	<string>لا</string>
+	<key>No Shutter Sound</key>
+	<string>تعطيل صوت الكاميرا</string>
+	<key>No Sound</key>
+	<string>بدون صوت</string>
+	<key>Not Linked</key>
+	<string>غير مرتبط</string>
+	<key>Notice!</key>
+	<string>اشعار</string>
+	<key>Notification Options</key>
+	<string>خيارات الاشعارات</string>
+	<key>OFF</key>
+	<string>ايقاف</string>
+	<key>OK</key>
+	<string>اوك</string>
+	<key>ON</key>
+	<string>مشغل</string>
+	<key>Okay</key>
+	<string>اوكي</string>
+	<key>Open Feed on Launch</key>
+	<string>فتح المحادثات لما تدخل التطبيق</string>
+	<key>Open in iFile</key>
+	<string>فتح في iFile</string>
+	<key>Orientation</key>
+	<string>Orientation</string>
+	<key>Override Orientation</key>
+	<string>Override Orientation</string>
+	<key>PASSWORD SETTINGS</key>
+	<string>اعدادات كلمة المرور</string>
+	<key>PHANTOM GROUPS</key>
+	<string>مجموعات الفانتوم</string>
+	<key>PHANTOM LOGIN</key>
+	<string>تسجيل دخول الفانتوم</string>
+	<key>PHANTOM SETTINGS</key>
+	<string>اعدادات الفانتوم</string>
+	<key>PHANTOM SUPPORT</key>
+	<string>دعم  الفانتوم</string>
+	<key>Password Lock</key>
+	<string>كلمة مرور القفل</string>
+	<key>Password Settings</key>
+	<string>اعدادات كلمة المرور</string>
+	<key>Paypal Email</key>
+	<string>Paypal ايميل</string>
+	<key>Phantom Configuration</key>
+	<string>اعدادات الفانتوم - محمد نذير</string>
+	<key>Phantom Login</key>
+	<string>تسجيل دخول الفانتوم</string>
+	<key>Phantom Update</key>
+	<string>تحديث الفانتوم</string>
+	<key>Phantom button placement saved!</key>
+	<string>تم حغظ مكان زر الفانتوم</string>
+	<key>Photo</key>
+	<string>صور</string>
+	<key>Photos</key>
+	<string>الصور</string>
+	<key>Please &amp; I repeat, PLEASE do NOT abuse location faking. Do not send snaps to "Live Stories" from different regions. Doing so could cause the end of Phantom :(
+
+Also, do not update Snapchat in the future until Phantom has approved compatibility.</key>
+	<string>غير مكانك وارسل سنابات من مواقع وهمية وكل شيء تريد :(
+
+انتبه تحدث تطبيق سناب شات في المستقبل حتى تتاكد ان الفانتوم متوافقة مع هالتحديث.</string>
+	<key>Please enter a valid album name.</key>
+	<string>اكتب اسم الألبوم</string>
+	<key>Please enter a valid email address!</key>
+	<string>اكتب ايميل صح</string>
+	<key>Please enter an album name you'd like to save to.</key>
+	<string>اكتب اسم الالبوم الي تبي تحفظ فيه</string>
+	<key>Please enter the email used in the Phantom purchase!</key>
+	<string>اكتب الايميل الي استخدمتة لما شريت رخصة الفانتوم</string>
+	<key>Please enter your Paypal Login email.</key>
+	<string>اكتب ايميلك حق Paypal عشان تسجيل الدخول</string>
+	<key>Please help determine origin of video. 1. Video was saved from Snapchat.
+2. Video was recorded from iOS camera app.</key>
+	<string>من وين لك الفيديو هذا؟. 1. حفظت الفيديو من السناب شات.
+2. تم تسجيل الفيديو من كاميرا الايفون حقك.</string>
+	<key>Please sumbit a valid name for your new Group!</key>
+	<string>اكتب اسم زي الناس لمجموعتك الجديدة</string>
+	<key>Preview Options</key>
+	<string>خيارات المشاهدة</string>
+	<key>Problem saving image to Dropbox.. account Linked?</key>
+	<string>مشكلة في حفظ الصور ل Dropbox بالحساب المرتبط</string>
+	<key>Problem saving image to custom album!</key>
+	<string>مشكلة في حفظ الصور الى البوم مخصص</string>
+	<key>Problem saving image to vault..</key>
+	<string>مشكلة في حفظ الصورة الى المحفظة</string>
+	<key>Problem saving video to Dropbox.. account Linked?</key>
+	<string>مشكلة في حفظ الفيديو ل Dropbox بالحساب المرتبط</string>
+	<key>Problem saving video to custom album!</key>
+	<string>مشكلة في حفظ الفيديو الى البوم مخصص</string>
+	<key>Problem saving video to vault..</key>
+	<string>مشكلة في حفظ الفيديو الى المحفظة</string>
+	<key>Processing..</key>
+	<string>معالجة..</string>
+	<key>Purchase</key>
+	<string>شراء</string>
+	<key>Purchase Email</key>
+	<string>ايميل الشراء</string>
+	<key>Quit</key>
+	<string>انهاء</string>
+	<key>Receiving data...</key>
+	<string>تلقي البيانات..</string>
+	<key>Remove Ads</key>
+	<string>تعريب: محمد نذير</string>
+	<key>Rename</key>
+	<string>اعادة تسمية</string>
+	<key>Reset</key>
+	<string>اعادة تعيين</string>
+	<key>Reset Phantom Button Layout</key>
+	<string>اعادة تعيين زر الفانتوم</string>
+	<key>Reset Placements</key>
+	<string>اعادة تعيين المكان</string>
+	<key>Restart Required</key>
+	<string>لازم تسوي اعادة تشغيل</string>
+	<key>Restart Snapchat!</key>
+	<string>اعادة تشغيل سناب شات</string>
+	<key>Rotate 180</key>
+	<string>تدوير 180</string>
+	<key>Rotate 270</key>
+	<string>تدوير 270</string>
+	<key>Rotate 90</key>
+	<string>تدوير 90</string>
+	<key>Rotate Left</key>
+	<string>تدوير يسار</string>
+	<key>Rotate Right</key>
+	<string>تدوير يمين</string>
+	<key>RotateRightFlipHorizontal</key>
+	<string>RotateRightFlipHorizontal</string>
+	<key>RotateRightFlipVertical</key>
+	<string>RotateRightFlipVertical</string>
+	<key>SAVED MEDIA</key>
+	<string>الميديا المحفوظة</string>
+	<key>SPOOF OPTIONS</key>
+	<string>خيارات النصب الوهمية</string>
+	<key>SPOOF SPEED</key>
+	<string>سرعة وهمي</string>
+	<key>SPOOF TEMPERATURE</key>
+	<string>درجة حرارة وهمي</string>
+	<key>SYSTEM TONES</key>
+	<string>نغمات النظام</string>
+	<key>Satellite</key>
+	<string>Satellite</string>
+	<key>Save</key>
+	<string>حفظ</string>
+	<key>Save Options</key>
+	<string>خيارات الحفظ</string>
+	<key>Save instantly to: %@</key>
+	<string>حفظ مباشرة في: %@</string>
+	<key>Save to Dropbox</key>
+	<string>حفظ في Dropbox</string>
+	<key>Save to album: %@</key>
+	<string>حفظ في البوم: %@</string>
+	<key>Save to camera roll</key>
+	<string>حفظ في البوم الصور</string>
+	<key>Save to vault</key>
+	<string>حفظ في المحفظة</string>
+	<key>Save to..</key>
+	<string>حفظ في ..</string>
+	<key>Saved Images</key>
+	<string>الصور المحفوظة</string>
+	<key>Saved Media</key>
+	<string>الميديا المحفوظة</string>
+	<key>Saved Snaps</key>
+	<string>السنابات المحفوظة</string>
+	<key>Saved Videos</key>
+	<string>الفيديوات المحفوظة</string>
+	<key>Saved image to %@!</key>
+	<string>حفظ الصورة في %@!</string>
+	<key>Saved video to %@!</key>
+	<string>حفظ الفيديو في %@!</string>
+	<key>Saving image..</key>
+	<string>حفظ الصورة..</string>
+	<key>Saving video..</key>
+	<string>حفظ الفيديو..</string>
+	<key>Seems you've tried this too many times!</key>
+	<string>شكلك حاولت كثير!</string>
+	<key>Select one default saving method when pressing the Save button on a snap.</key>
+	<string>اختار احد الطرق الافتراضية للحفظ عند الضغط على زر الحفظ في السنابات</string>
+	<key>Select where you would like your Snaps to automatically save when viewing a Snap.</key>
+	<string>اختار وين تبي تحفظ سناباتك تلقائين لما تشوف سناب</string>
+	<key>Selecting Phantom in Activator is required to enable Volume To Snap. You can set a different event within the Activator app later.</key>
+	<string>مطلوب تحديد الفانتوم في المنشط لتمكين "وحدة التخزين إلى الانجذاب". يمكنك تعيين حدث مختلفة داخل التطبيق المنشط في وقت لاحق.</string>
+	<key>Send</key>
+	<string>ارسال</string>
+	<key>Send in SC</key>
+	<string>ارسال SC</string>
+	<key>Sending data...</key>
+	<string>ارسال البيانات</string>
+	<key>Server Message:
+
+%@</key>
+	<string>رسالة السيرفر:
+
+%@</string>
+	<key>Set</key>
+	<string>تعيين</string>
+	<key>Setup</key>
+	<string>اعداد</string>
+	<key>Show Settings Icon</key>
+	<string>اظهار ايقونة الاعدادات</string>
+	<key>Show Sublabels</key>
+	<string>اظهار Sublabels</string>
+	<key>Skip</key>
+	<string>تخطي</string>
+	<key>Snapchat does not have access to photos!</key>
+	<string>سناب شات ماعنده صلاحيات للوصول للصور</string>
+	<key>Snapchat must be quit &amp; re-launched for changes to take effect!</key>
+	<string>لازم تقفل تطبيق سناب شات وتشغلة اقين لتطبيق التغييرات الي سويتها</string>
+	<key>Snapchat needs to be restarted. If unsuccessful login, try the transfer again.</key>
+	<string>لازم تسوي اعادة تشغيل للسناب شات, اذا ماقدرت تسوي دخول, حاول نقل مرة اخرى.</string>
+	<key>Sorry!</key>
+	<string>معليش!</string>
+	<key>Spoof Celsius</key>
+	<string>مئوية وهمي</string>
+	<key>Spoof Fahrenheit</key>
+	<string>فهرنهايت وهمي</string>
+	<key>Spoof KM/H</key>
+	<string>وهمي KM/H</string>
+	<key>Spoof Location</key>
+	<string>موقع وهمي</string>
+	<key>Spoof MPH</key>
+	<string>وهمي MPH</string>
+	<key>Spoof Notifications</key>
+	<string>اشعارات وهمي</string>
+	<key>Spoofing</key>
+	<string>اكذب عالناس</string>
+	<key>Standard</key>
+	<string>قياسي</string>
+	<key>Statusbar Icon</key>
+	<string>ايقونة شريط الحالة</string>
+	<key>Stealth Mode Activated</key>
+	<string>تنشيط وضع الشبح</string>
+	<key>Stealth Mode Deactivated</key>
+	<string>تعطيل وضع الشبح</string>
+	<key>Story Options</key>
+	<string>خيارات الستوري</string>
+	<key>Stretch Images</key>
+	<string>امتداد الصور</string>
+	<key>Submit</key>
+	<string>ارسال</string>
+	<key>Submit Bug</key>
+	<string>ارسال خطا</string>
+	<key>Success!</key>
+	<string>نجاح</string>
+	<key>Support</key>
+	<string>الدعم</string>
+	<key>Support Phantom by purchasing a license. If you purchased a license &amp; you are not registered. Email dev within Phantom Support.</key>
+	<string>إدعم الفانتوم لكي تقدر تحذف الاعلانات من خلال دعم المطور </string>
+	<key>Tap to Advance</key>
+	<string>اضغط للتقدم</string>
+	<key>Thank you so much for supporting my work. Enjoy the full version of Phantom!</key>
+	<string>شكراً لدعم الفانتوم, استمتع بالنسخة الكاملة الان</string>
+	<key>Thanks for supporting Phantom!</key>
+	<string>شكراً لدعم الفانتوم</string>
+	<key>There was a problem processing the payment, contact Phantom Support!</key>
+	<string>كان هناك مشكلة في عملية الدفع, اتصل بدعم الفانتوم</string>
+	<key>This feature comes with a side effect. Video chat will not work at all, the recipient's Snapchat app will think you're unavailable.</key>
+	<string>هذي الميزة فيها مشاكل, محادثة الفيديو لن تعمل عالاطلاق والمستلم سيعتقد انك غير متوفر.</string>
+	<key>This feature does not hide best friends on the Snapchat server.</key>
+	<string>هذي الميزة لاتخفي افضل الاصدقاء على سيرفرات سناب شات</string>
+	<key>This feature does not work on iOS6!</key>
+	<string>This feature does not work on iOS6!</string>
+	<key>Title: SC Username</key>
+	<string>Title: SC Username</string>
+	<key>To select all friends, press
+ the "Send To..." text at the top!</key>
+	<string>لتحديد كل اصدقائك اضغط
+ the "ارسال الى..." الي موجودة فوووق</string>
+	<key>To use, hold your finger on the map to select your new location.</key>
+	<string>للاستخدام, اضغط وعلق اصبعك على الخريطة لتحديد موقعك الجديد.</string>
+	<key>Toggle Rainbow</key>
+	<string>Toggle Rainbow</string>
+	<key>Touch ID is not set up!</key>
+	<string>ماسويت بصمة بجهازك</string>
+	<key>Understood</key>
+	<string>مفهوم</string>
+	<key>Unlimited Replays</key>
+	<string>ردود للابد</string>
+	<key>Update</key>
+	<string>تحديث</string>
+	<key>Use Bundled Lenses</key>
+	<string>استخدام Bundled Lenses</string>
+	<key>Use your fingerprint or password to unlock the Vault.</key>
+	<string>استخدام البصمة او كلمة المرور لفتح المحفظة</string>
+	<key>VIBRATION TONES</key>
+	<string>نغمات الاهتزاز</string>
+	<key>Vault</key>
+	<string>المحفظة</string>
+	<key>Video</key>
+	<string>فيديو</string>
+	<key>Video Editor</key>
+	<string>محرر الفيديو</string>
+	<key>Video Tool</key>
+	<string>اداة الفيديو</string>
+	<key>Video saved to Dropbox!</key>
+	<string>الفيديو حفظ في الدروب بوكس</string>
+	<key>Video saved to camera roll!</key>
+	<string>تم حفظ الفيديو في البوم الكاميرا</string>
+	<key>Video saved to vault!</key>
+	<string>الفيديو حفظ في المحفظة</string>
+	<key>Volume Snap</key>
+	<string>صوت السناب</string>
+	<key>What would you like your group to be named?</key>
+	<string>وش تبي تخلي اسم مجموعتك؟</string>
+	<key>Would you like to use iOS8's fingerprint password?</key>
+	<string>Would you like to use iOS8's fingerprint password?</string>
+	<key>Yes</key>
+	<string>Yes</string>
+	<key>You can now view your friend's Stories without sending a "viewed" stamp. Side effect: Stories will stay on top of the list as if you never viewed.</key>
+	<string>تقدر الحين تشوف ستوريات صديقتك بدون ارسال انك شفتها يعني ماتعرف. المشكلة ان الستوريات راح تبقا موجودة فوق كانك مافتحتها ابداً</string>
+	<key>You can't send a tweet right now, make sure your device has an internet connection and you have at least one Twitter account setup.</key>
+	<string>لا يمكنك إرسال تغريدة الآن، تأكد من أن الجهاز الخاص بك لديه اتصال بإنترنت ويكون لديك إعداد حساب تويتر واحد على الأقل.</string>
+	<key>You did not enter a valid number!</key>
+	<string>ماكتبت رقم صحيح</string>
+	<key>You don't have Activator installed! Install it now?</key>
+	<string>ماعندك اداة Activator, تبي تحملها الحين؟</string>
+	<key>You have an older version of Snapchat installed! Upgrade to use the location spoofing feature!</key>
+	<string>انت محمل نسخة قديمة من تطبيق سناب شات, لازم تحدث اول عشان تقدر تستخدم ميزة الموقع الوهمي.</string>
+	<key>You have not logged any images yet!</key>
+	<string>انت ماسجلت اي صور للحين</string>
+	<key>You have not saved any images to Dropbox!</key>
+	<string>انت ماحفظت اي صور للدروب بوكس</string>
+	<key>You have not saved any images yet!</key>
+	<string>انت ماحفظت اي صور للحين</string>
+	<key>You have not saved any snaps to Dropbox!</key>
+	<string>انت ماحفظت اي سنابات للدروب بوكس</string>
+	<key>You need "Always Keep Snaps" enabled to mark snaps read manually!</key>
+	<string>لازم تفعل "ابقاء المحادثات دايمن" عشان تقدر تحط علامة القراءة للمحادثات يدوين</string>
+	<key>You will need bluetooth enabled to receive account information from the host device.</key>
+	<string>لازم تشغل البلوتوث عشان توصلك معلومات الحساب من الجهاز المضيف.</string>
+	<key>You will need bluetooth enabled to transfer account information to the target device.</key>
+	<string>لازم تشغل البلوتوث عشان تنقل معلومات الحساب للجهاز الي تبي.</string>
+	<key>You're out of licenses!</key>
+	<string>You're out of licenses!</string>
+	<key>create/specify</key>
+	<string>انشاء/تحديد</string>
+	<key>ie: Colleagues, Brothers, Girlfriends</key>
+	<string>ie: Colleagues, Brothers, Girlfriends</string>
+	<key>key</key>
+	<string>مفتاح</string>
+	<key>microphone_access_message</key>
+	<string>microphone_access_message</string>
+	<key>microphone_access_title</key>
+	<string>microphone_access_title</string>
+	<key>okay</key>
+	<string>اوكي</string>
+</dict>
+</plist>
