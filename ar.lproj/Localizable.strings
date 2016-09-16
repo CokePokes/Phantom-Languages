@@ -45,6 +45,8 @@ If you would like to download &amp; use @rpetrich's separate tweak to use in mul
 	<string>الغاء</string>
 	<key>Add</key>
 	<string>اضافة</string>
+	<key>Add Custom Filter</key>
+	<string>اضافة فلتر خاص بك</string>
 	<key>Add Music</key>
 	<string>اضافة موسيقى</string>
 	<key>Album</key>
@@ -63,6 +65,8 @@ If you would like to download &amp; use @rpetrich's separate tweak to use in mul
 	<string>حفظ تلقائي</string>
 	<key>Auto save to: %@</key>
 	<string>حفظ تلقائي في: %@</string>
+	<key>Aviary Image Editor</key>
+	<string>محرر الصور والتعديل عليها</string>
 	<key>Back</key>
 	<string>رجوع</string>
 	<key>Big Thanks to: Thomas Finch</key>
@@ -187,6 +191,8 @@ If you would like to download &amp; use @rpetrich's separate tweak to use in mul
 	<string>خطا: حاول تحويلاصلاح الفيديو قبل اختيار..</string>
 	<key>Examples: 1, 3, 4, 20</key>
 	<string>مثلن: 1, 3, 4, 20</string>
+	<key>Exit Story After Last Snap</key>
+	<string>تعطيل التشغيل التلقائي للستوري</string>
 	<key>Fahrenheit</key>
 	<string>فهرنهايت</string>
 	<key>Failure!</key>
@@ -230,7 +236,7 @@ If you would like to download &amp; use @rpetrich's separate tweak to use in mul
 	<key>I can't handle the pressure</key>
 	<string>I can't handle the pressure</string>
 	<key>If you restored, request a license switch by emailing 'License Support'</key>
-	<string>If you restored, request a license switch by emailing 'License Support'</string>
+	<string>إذا قمت باستعادة، طلب مفتاح ترخيص عن طريق البريد الإلكتروني '"ترخيص الدعم"'</string>
 	<key>Image</key>
 	<string>صورة</string>
 	<key>Image added to camera roll!</key>
@@ -271,6 +277,8 @@ If you would like to download &amp; use @rpetrich's separate tweak to use in mul
 	<string>مرتبط</string>
 	<key>Loading..</key>
 	<string>تحميل..</string>
+	<key>Lockscreen Snap</key>
+	<string>مشاهدة السناب في القفل</string>
 	<key>Log Sent Media</key>
 	<string>سجل الميديا المرسلة</string>
 	<key>Logged Images</key>
@@ -574,7 +582,7 @@ Also, do not update Snapchat in the future until Phantom has approved compatibil
 	<key>To use, hold your finger on the map to select your new location.</key>
 	<string>للاستخدام, اضغط وعلق اصبعك على الخريطة لتحديد موقعك الجديد.</string>
 	<key>Toggle Rainbow</key>
-	<string>Toggle Rainbow</string>
+	<string>تبديل اللون الى قوس قزح</string>
 	<key>Touch ID is not set up!</key>
 	<string>ماسويت بصمة بجهازك</string>
 	<key>Understood</key>
@@ -608,7 +616,7 @@ Also, do not update Snapchat in the future until Phantom has approved compatibil
 	<key>What would you like your group to be named?</key>
 	<string>وش تبي تخلي اسم مجموعتك؟</string>
 	<key>Would you like to use iOS8's fingerprint password?</key>
-	<string>Would you like to use iOS8's fingerprint password?</string>
+	<string>هل تريد استخدام بصمة كلمة السر ل iOS8؟</string>
 	<key>Yes</key>
 	<string>Yes</string>
 	<key>You can now view your friend's Stories without sending a "viewed" stamp. Side effect: Stories will stay on top of the list as if you never viewed.</key>
